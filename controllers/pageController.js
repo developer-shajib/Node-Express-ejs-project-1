@@ -80,6 +80,9 @@ const showContact2Page = (req,res)=>{
     res.render('contact-2');
 };
 
+
+
+
 module.exports = {
     showHomePage,
     showHome2Page,

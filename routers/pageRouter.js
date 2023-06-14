@@ -1,7 +1,7 @@
 
 const express = require('express');
 const { showFormDataPage } = require('../controllers/helperController');
-const { showHomePage, showHome2Page, showHome3Page, showHome4Page, showFaqPage, showPrivacyPage, showGalleryPage, showAboutPage, showCoursePage, showCourseSinglePage, showEvent1Page, showEvent2Page, showEvent3Page, showTeacherSinglePage, showTeacher2Page, showTeacherPage, showBlogSinglePage, showBlogPage, showShopPage, showShopSinglePage, showContactPage, showContact2Page } = require('../controllers/pageController');
+const { showHomePage, showHome2Page, showHome3Page, showHome4Page, showFaqPage, showPrivacyPage, showGalleryPage, showAboutPage, showCoursePage, showCourseSinglePage, showEvent1Page, showEvent2Page, showEvent3Page, showTeacherSinglePage, showTeacher2Page, showTeacherPage, showBlogSinglePage, showBlogPage, showShopPage, showShopSinglePage, showContactPage, showContact2Page, showHomeP, showHome2 } = require('../controllers/pageController');
 
 //init router 
 const router = express.Router();
