@@ -1,4 +1,4 @@
-## Getting Started with Shop Page rendering
+## Getting Started with Shop Page rendering create for practice purpose
 
 ##### This project was Ejs template engine, Node, express, mongodb.
 
