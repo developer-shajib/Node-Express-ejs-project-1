@@ -11,7 +11,7 @@
 Clone the project or download it
 
 ```bash
-  git clone https://github.com/developer-shajib/Node-Express-ejs-project-1
+  git clone [https://github.com/developer-shajib/Node-Express-ejs-project-1](https://github.com/developer-shajib/netflix-with-mini-react)
 ```
 
 ### Go to the project directory:
@@ -30,9 +30,9 @@ Start the server
 
 ## Tech Stack
 
-**Client:** Ejs template engine
+**Client:** Create React app
 
-**Server:** Node, Express, MongoDB
+**Server:** None
 
 ## Environment Variables
 
